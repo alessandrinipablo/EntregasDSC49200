@@ -1,0 +1,10 @@
+Abstracto: Descripción general del análisis de datos, la audiencia objetivo y las metas del proyecto.
+Preguntas/Hipótesis: Enumeración de las preguntas que se intentarán responder durante el análisis.
+Estructura del Análisis: Detalle de los pasos que seguirás para llevar a cabo el análisis, que incluye desde la carga de datos hasta la evaluación de los modelos de machine learning.
+Carga de Datos: Importación de los datos.
+Análisis Exploratorio de Datos (EDA): Exploración inicial de los datos mediante estadísticas descriptivas y visualizaciones.
+Preprocesamiento de Datos: Limpieza y preparación de los datos para el modelado.
+Modelado de Machine Learning: Selección, entrenamiento y evaluación de modelos de machine learning.
+Conclusiones y Recomendaciones: Resumen de los hallazgos clave del análisis y las recomendaciones basadas en ellos.
+
+
